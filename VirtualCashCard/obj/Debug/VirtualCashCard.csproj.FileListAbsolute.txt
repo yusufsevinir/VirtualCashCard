@@ -1,0 +1,6 @@
+C:\Repo\VirtualCashCard\VirtualCashCard\bin\Debug\VirtualCashCard.dll
+C:\Repo\VirtualCashCard\VirtualCashCard\bin\Debug\VirtualCashCard.pdb
+C:\Repo\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.csproj.CoreCompileInputs.cache
+C:\Repo\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.dll
+C:\Repo\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.pdb
+C:\Repo\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.csprojAssemblyReference.cache
